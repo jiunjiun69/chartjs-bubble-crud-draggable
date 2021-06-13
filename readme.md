@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+# 說明
+此專案為圖表練習，用chartjs官方文件的CRUD功能加上可拖曳插件與個別化命名與個別化刪除功能，並列出有儲存的圖案清單
+
+# 環境
+- laravel 5.8
+- XAMPP 7.4.19
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
